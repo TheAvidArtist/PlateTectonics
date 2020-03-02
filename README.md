@@ -72,7 +72,7 @@
     plt.ylabel('magnitude of earthquake')
     print(dates)
 
-  ![Fig 1](https://github.com/TheAvidArtist/PlateTectonics/blob/master/Better.png)
+  ![Fig 1](https://github.com/TheAvidArtist/PlateTectonics/blob/master/FinalTimevM.png)
 
  ## Google Maps
  
@@ -115,3 +115,12 @@
                     color='mag', cmap='viridis'))
 
 ![Fig 2](https://github.com/TheAvidArtist/PlateTectonics/blob/master/Noice.PNG)
+
+##April 2015
+
+    points = April.to(gv.Points, ['longitude', 'latitude'], ['mag', 'depth'])
+    (gvts.ESRI * points).opts(
+        opts.Points(width=600, height=700, tools=['hover'], size=np.sqrt(dim('mag'))*5,
+                    color='mag', cmap='viridis'))
+                    
+https://github.com/TheAvidArtist/PlateTectonics/blob/master/Check.html
