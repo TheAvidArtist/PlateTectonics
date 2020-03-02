@@ -116,11 +116,11 @@
 
 ![Fig 2](https://github.com/TheAvidArtist/PlateTectonics/blob/master/Noice.PNG)
 
-##April 2015
+## April 2015
 
     points = April.to(gv.Points, ['longitude', 'latitude'], ['mag', 'depth'])
     (gvts.ESRI * points).opts(
         opts.Points(width=600, height=700, tools=['hover'], size=np.sqrt(dim('mag'))*5,
                     color='mag', cmap='viridis'))
                     
-https://github.com/TheAvidArtist/PlateTectonics/blob/master/Check.html
+https://github.com/TheAvidArtist/PlateTectonics/blob/master/index.html
