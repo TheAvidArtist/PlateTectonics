@@ -108,3 +108,10 @@
                     xaxis=None, yaxis=None, tools=['hover'],
                     size=np.sqrt(dim('magnitude'))*10))
     gvts.ESRI.options(width=1200, height=700) * Cords
+    
+    points = Dataset.to(gv.Points, ['longitude', 'latitude'], ['mag', 'depth'])
+    (gvts.ESRI * points).opts(
+        opts.Points(width=600, height=350, tools=['hover'], size=np.sqrt(dim('mag'))*5,
+                    color='mag', cmap='viridis'))
+
+![Fig 2](https://github.com/TheAvidArtist/PlateTectonics/blob/master/Noice.PNG)
