@@ -4,6 +4,7 @@ https://github.com/TheAvidArtist/PlateTectonics/edit/master/README.md
 
 https://github.com/TheAvidArtist/PlateTectonics
 
+https://github.com/TheAvidArtist/PlateTectonics/blob/master/Project%203.ipynb
 
 ## Introduction
 
