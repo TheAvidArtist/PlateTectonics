@@ -24,6 +24,7 @@ Earthquake locations on a map with radius and color of circles correlated to the
 
 
 
+
 Figure 2: Earthquake map
 ![Fig2](https://github.com/TheAvidArtist/PlateTectonics/blob/master/AllEarthquakes.PNG)
 
@@ -42,6 +43,7 @@ Figure 3: Earthquake map with Juan de Fuca plate for reference
 
 
 We can see the most earthquake data along the bottom of the Juan de Fuca plate on the Divergent plate boundary.  Nearly all earthquakes occur at plate boundaries and faults because that is where the tectonic plates are stressed.  At divergent boundaries, new material is created at the surface as plates move apart and shallow earthquakes are common.  At transform boundaries, plates move past each other and earthquakes often occur from strike-slip faulting and friction.  Here is a heat map showing the frequency of earthquakes:
+
 
 
 
