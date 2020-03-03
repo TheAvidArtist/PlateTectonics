@@ -12,12 +12,16 @@ This report is about mapping earthquakes from 2010 to present along the Pacific 
 From this scatter plot of magnitude vs time of all the earthquakes in the region we can see that it is a fairly even spread of magnitude and frequency of earthquakes across time:
 
 
+
 Figure 1: Scatter plot of all data (magnitude vs time)
 ![Fig1](https://github.com/TheAvidArtist/PlateTectonics/blob/master/ScatterPlot1.png)
 
 
 
+
 Earthquake locations on a map with radius and color of circles correlated to the magnitude of the earthquake show that nearly all the earthquakes occur on the fault lines on the Juan de Fuca plate:
+
+
 
 
 Figure 2: Earthquake map
@@ -25,7 +29,10 @@ Figure 2: Earthquake map
 
 
 
+
 Earthquake locations on a map with radius and color of circles correlated to the magnitude of the earthquake in relation to the Juan de Fuca plate for clarity:
+
+
 
 
 Figure 3: Earthquake map with Juan de Fuca plate for reference
@@ -33,12 +40,16 @@ Figure 3: Earthquake map with Juan de Fuca plate for reference
 
 
 
+
 We can see the most earthquake data along the bottom of the Juan de Fuca plate on the Divergent plate boundary.  Nearly all earthquakes occur at plate boundaries and faults because that is where the tectonic plates are stressed.  At divergent boundaries, new material is created at the surface as plates move apart and shallow earthquakes are common.  At transform boundaries, plates move past each other and earthquakes often occur from strike-slip faulting and friction.  Here is a heat map showing the frequency of earthquakes:
+
+
 
 
 
 Figure 4: Heat map of earthquakes
 ![Fig4](https://github.com/TheAvidArtist/PlateTectonics/blob/master/GoogleMaps.PNG)
+
 
 
 
@@ -78,12 +89,15 @@ Map of earthquakes in April 2015:
 
 
 
+
 Figure 5: Map of earthquakes during April 2015
 ![Fig5](https://github.com/TheAvidArtist/PlateTectonics/blob/master/April2015Map.PNG)
 
 
 
+
 Most of the earthquakes occured 300 miles off the Pacific Northwest coast on the Axial Seamount, which corresponds to when volcanoes started erupting off the Oregon coast (which actually occured over 5 months).  We can see from this time plot that a good portion of the earthquakes happened on one day:
+
 
 
 
@@ -101,12 +115,15 @@ Earthquakes across the divergent boundary:
 
 
 
+
 Figure 7: Earthquakes along Divergent boundary
 ![Fig7](https://github.com/TheAvidArtist/PlateTectonics/blob/master/DivergentBoundary.PNG)
 
 
 
+
 Earthquakes across the transform boundary:
+
 
 
 
@@ -120,12 +137,16 @@ We can see that there are a lot more earthquakes occuring along the divergent bo
 
 
 
+
 Figure 9: Scatterplot of earthquake magnitude vs time along Divergent boundary
 ![Fig9](https://github.com/TheAvidArtist/PlateTectonics/blob/master/ScatterPlotDivergent.png)
 
 
+
+
 Figure 10: Scatterplot of earthquake magnitude vs time along Transform boundary
 ![Fig10](https://github.com/TheAvidArtist/PlateTectonics/blob/master/ScatterPlotTransform.png)
+
 
 
 
