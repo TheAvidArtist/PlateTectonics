@@ -2,18 +2,29 @@
 
 ## Introduction
 
+
+
 This report is about mapping earthquakes from 2010 to present along the Juan de Fuca plate.
 
+
+
 A scatter plot of magnitude vs time of all the earthquakes in the region:
+
+
 ![Fig1](https://github.com/TheAvidArtist/PlateTectonics/blob/master/ScatterPlot1.png)
 
 
 
-Earthquake locations on a map with radius and color of circles correlated to the magnitude of the earthquake.
+Earthquake locations on a map with radius and color of circles correlated to the magnitude of the earthquake:
+
+
 ![Fig2](https://github.com/TheAvidArtist/PlateTectonics/blob/master/AllEarthquakes.PNG)
 
 
-Earthquake locations on a map with radius and color of circles correlated to the magnitude of the earthquake in relation to the Juan de Fuca plate.
+
+Earthquake locations on a map with radius and color of circles correlated to the magnitude of the earthquake in relation to the Juan de Fuca plate:
+
+
 ![Fig3](https://github.com/TheAvidArtist/PlateTectonics/blob/master/PlateAndAllEarthquakes.PNG)
 
 
@@ -37,13 +48,27 @@ Min: 2.5
 Average: 3.18
 
 
+
 Map of earthquakes in April 2015:
+
+
 ![Fig4](https://github.com/TheAvidArtist/PlateTectonics/blob/master/April2015Map.PNG)
+
+
 
 Most of the earthquakes occured 300 miles off the Pacific Northwest cost on the Axial Seamount, which corresponds to when volcanoes started erupting off the Oregon coast (which actually occured over 5 months).
 
+
+
 Divergent boundary:
+
+
 ![Fig5](https://github.com/TheAvidArtist/PlateTectonics/blob/master/DivergentBoundary.PNG)
 
+
+
 Transform boundary:
+
+
 ![Fig6](https://github.com/TheAvidArtist/PlateTectonics/blob/master/TransformBoundary.PNG)
+
