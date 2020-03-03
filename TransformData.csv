@@ -1,0 +1,243 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2010-01-07T23:24:15.430,40.4988333,-126.8675,4.622,3.09,md,23,297,1.928,0.3,nc,nc71336941,2017-01-21T17:30:35.235,off the coast of Northern California,earthquake,7.32,6.55,0.2,22,reviewed,nc,nc
+2010-03-06T02:23:12.360,40.6886667,-127.0021667,6.172,2.96,md,17,303,2.039,0.14,nc,nc71359280,2017-01-22T00:51:08.439,off the coast of Northern California,earthquake,8.12,7.76,0.157,19,reviewed,nc,nc
+2010-03-22T03:46:51.350,41.8518333,-126.2666667,23.52,4.13,mw,28,277,1.56,0.28,nc,nc71366850,2017-01-22T03:02:54.975,off the coast of Northern California,earthquake,1.98,21.31,,3,reviewed,nc,nc
+2010-03-22T06:00:13.120,41.806,-126.223,23.8,3.2,md,9,294.9,,,us,usp000h9ud,2017-01-22T03:03:09.558,off the coast of Northern California,earthquake,,,,,reviewed,nc,nc
+2010-03-22T08:11:48.560,41.851,-126.071,10,3.9,mwr,35,215,,1.18,us,usp000h9uk,2017-01-22T03:04:11.800,off the coast of Northern California,earthquake,,,,,reviewed,us,brk
+2010-04-15T10:10:33.710,40.6336667,-126.6478333,9.622,2.87,md,13,303,1.766,0.25,nc,nc71382486,2017-01-22T05:57:48.056,off the coast of Northern California,earthquake,14.03,31.61,0.157,14,reviewed,nc,nc
+2010-05-13T05:35:12.200,42.263,-126.499,10,5.3,mwc,273,106.4,,1.22,us,usp000hcpr,2016-11-10T02:28:09.924,off the coast of Oregon,earthquake,,,,,reviewed,us,gcmt
+2010-05-14T01:01:18.140,42.317,-126.317,10,4,mb,63,184.3,,1.24,us,usp000hcqu,2016-07-14T01:18:10.510,off the coast of Oregon,earthquake,,,,14,reviewed,us,us
+2010-05-14T19:10:25.380,42.24,-126.454,10,4,mb,88,171.6,,1.4,us,usp000hcrv,2014-11-07T01:41:29.324,off the coast of Oregon,earthquake,,,,12,reviewed,us,us
+2010-05-14T19:33:03.560,42.248,-126.394,10,4,mb,102,206.1,,1.34,us,usp000hcrw,2016-07-14T01:18:17.390,off the coast of Oregon,earthquake,,,,15,reviewed,us,us
+2010-05-15T08:20:37.630,41.4596667,-126.9626667,8.99,3.36,md,8,308,2.177,0.13,nc,nc71398406,2017-01-22T09:28:41.180,off the coast of Northern California,earthquake,1.53,31.61,0.28,23,reviewed,nc,nc
+2010-06-19T07:37:54.720,41.8521667,-126.3281667,4.03,3.21,md,26,279,1.605,0.18,nc,nc71417296,2017-01-22T13:44:52.389,off the coast of Northern California,earthquake,3.3,16.48,0.19,17,reviewed,nc,nc
+2010-08-16T16:19:11.000,41.346,-126.662,23.2,3.3,md,7,318.8,,,us,usp000hja8,2017-01-22T20:48:42.365,off the coast of Northern California,earthquake,,,,,reviewed,nc,nc
+2010-08-17T02:15:18.340,40.57,-127.202,10,2.8,ml,21,263.4,,1.15,us,usp000hjat,2017-01-22T20:51:58.193,off the coast of Northern California,earthquake,,,,,reviewed,us,us
+2010-09-18T09:35:01.810,41.3083333,-126.2538333,5.053,2.88,md,14,293,1.75,0.22,nc,nc71457005,2017-01-23T00:24:49.044,off the coast of Northern California,earthquake,9.24,19.91,0.189,6,reviewed,nc,nc
+2010-09-20T15:20:14.000,41.856,-126.33,5,3.6,ml,28,256.3,,,us,usp000hkzv,2017-01-23T00:43:09.918,off the coast of Northern California,earthquake,,,,,reviewed,nc,nc
+2010-09-21T18:44:43.250,40.502,-126.929,4.622,3.31,ml,34,304,1.975,0.25,nc,nc71458475,2017-01-23T00:50:34.714,off the coast of Northern California,earthquake,7.44,31.61,0.205,8,reviewed,nc,nc
+2010-10-13T10:50:23.890,41.936,-127.038,10,4.8,mwc,113,128.8,,1.24,us,usp000hn20,2017-01-23T03:15:30.400,off the coast of Northern California,earthquake,,,,,reviewed,us,gcmt
+2010-11-27T21:02:54.020,40.876,-127.319,10,4.2,mb,45,196.5,,1.02,us,usp000hq7m,2017-01-23T08:19:31.848,off the coast of Northern California,earthquake,,,,5,reviewed,us,us
+2011-02-21T16:59:55.000,41.175,-127.136,5,3.1,md,16,195.2,,,us,usp000huv9,2017-01-24T01:04:33.352,off the coast of Northern California,earthquake,,,,,reviewed,nc,nc
+2011-02-21T17:00:06.310,41.2323333,-126.8431667,4.92,3.22,md,10,313,2.254,0.06,nc,nc71048369,2017-01-24T01:04:38.306,off the coast of Northern California,earthquake,0.97,31.61,0.044,6,reviewed,nc,nc
+2011-04-12T01:12:05.580,42.34,-126.887,10,4.2,mb,41,245.2,,1.26,us,usp000hzsu,2016-07-22T17:40:25.360,off the coast of Oregon,earthquake,,,,9,reviewed,us,us
+2011-04-14T01:34:39.800,40.737,-126.402,10,4.4,mb,56,205.9,,0.93,us,usp000hzwx,2017-01-24T08:17:51.293,off the coast of Northern California,earthquake,,,,6,reviewed,us,us
+2011-05-27T09:09:59.420,41.75,-126.219,10.9,3,ml,24,243,,,us,usp000j29e,2017-01-24T13:33:16.686,off the coast of Northern California,earthquake,,,,,reviewed,nc,nc
+2011-06-18T02:41:16.170,41.879,-126.831,10,4.2,mb,79,202.6,,1.33,us,usp000j3br,2017-01-24T16:26:51.049,off the coast of Northern California,earthquake,,,,21,reviewed,us,us
+2011-06-18T10:49:11.370,41.88,-126.997,10,5.2,mwc,244,112.7,,1.3,us,usp000j3cc,2017-01-24T16:28:14.170,off the coast of Northern California,earthquake,,,,,reviewed,us,gcmt
+2011-08-28T02:20:13.190,41.8121667,-127.0565,20.82,3.42,md,16,295,2.144,0.27,nc,nc71628745,2017-01-25T03:04:19.830,off the coast of Northern California,earthquake,7.92,12.79,0.203,36,reviewed,nc,nc
+2011-09-14T00:13:44.620,40.5583333,-127.3873333,23.307,3.42,md,11,317,2.369,0.28,nc,nc71646141,2017-01-25T05:48:07.401,off the coast of Northern California,earthquake,3.23,31.61,0.21,19,reviewed,nc,nc
+2011-09-18T13:33:25.810,40.68,-126.958,10,2.6,ml,15,270.5,,0.83,us,usp000j88e,2017-01-25T06:30:11.411,off the coast of Northern California,earthquake,,,,,reviewed,us,us
+2011-09-18T14:38:08.960,40.642,-127.29,10,2.8,ml,14,279,,1.09,us,usp000j88h,2014-11-07T01:45:55.175,off the coast of Northern California,earthquake,,,,,reviewed,us,us
+2011-11-22T01:02:22.090,42.165,-127.078,10,4.1,mb,34,203.9,,1.31,us,usp000jb84,2014-11-07T01:46:23.659,off the coast of Oregon,earthquake,,,,7,reviewed,us,us
+2012-01-05T11:41:06.500,41.032,-127.178,5,3.2,md,50,205.4,,,us,usp000jd2r,2017-01-26T19:04:13.596,off the coast of Northern California,earthquake,,,,,reviewed,nc,nc
+2012-01-13T06:04:39.120,41.98,-126.822,10,2.8,ml,23,205.1,,0.91,us,usp000jde5,2014-11-07T01:46:46.781,off the coast of Northern California,earthquake,,,,,reviewed,us,us
+2012-03-13T10:07:02.200,42.11,-126.819,10,4.2,mb,96,184.8,,1.27,us,usp000jg5y,2015-03-24T01:27:14.717,off the coast of Oregon,earthquake,,,,22,reviewed,us,us
+2012-03-19T12:47:28.200,40.575,-126.262,5,2.9,md,29,237.3,,,us,usp000jgfs,2017-01-27T09:23:34.303,off the coast of Northern California,earthquake,,,,,reviewed,nc,nc
+2012-05-04T21:55:49.920,42.0898333,-126.7095,3.99,2.51,md,18,288,1.851,0.45,uw,uw60399067,2016-07-22T18:11:17.430,off the coast of Oregon,earthquake,1.8,38.77,0.211,9,reviewed,uw,uw
+2012-06-29T20:33:45.590,41.929,-126.136,23.6,3.1,md,20,258.8,,,us,usp000jncw,2017-01-28T03:07:19.909,off the coast of Northern California,earthquake,,,,,reviewed,nc,nc
+2012-08-01T02:40:52.240,40.5271667,-126.3433333,1.192,2.98,ml,31,287,1.529,0.26,nc,nc71824961,2017-01-28T07:27:11.303,off the coast of Northern California,earthquake,6.68,3.99,0.234,9,reviewed,nc,nc
+2012-08-22T23:43:21.080,42.464,-126.694,10,2.8,ml,28,236.8,,1.24,us,usp000jqmr,2014-11-07T01:48:36.631,off the coast of Oregon,earthquake,,,,,reviewed,us,us
+2012-09-09T12:35:13.350,42.4563333,-126.8841667,4.869,2.57,md,12,313,2.284,1.57,uw,uw60449842,2016-07-22T19:00:31.170,off the coast of Oregon,earthquake,20.33,31.61,0.035,4,reviewed,uw,uw
+2012-09-17T01:35:24.700,42.4003333,-126.4291667,3.864,2.57,md,17,302,1.982,0.5,uw,uw60452722,2016-07-22T19:00:50.940,off the coast of Oregon,earthquake,5.63,31.61,0.074,9,reviewed,uw,uw
+2012-09-17T01:59:15.160,42.427,-126.255,10,3.1,ml,32,235.3,,0.85,us,usp000jsfh,2016-07-22T19:00:51.240,off the coast of Oregon,earthquake,,,,,reviewed,us,us
+2012-09-17T04:43:56.620,42.4043333,-126.6721667,3.104,2.67,md,8,316,2.157,0.23,uw,uw60452767,2016-07-22T19:00:52.660,off the coast of Oregon,earthquake,2.62,31.61,0.049,5,reviewed,uw,uw
+2012-10-26T14:18:20.090,42.041,-126.895,10,3.3,ml,76,183.6,,1.23,us,usp000jufk,2014-11-07T01:49:08.906,off the coast of Oregon,earthquake,,,,,reviewed,us,us
+2012-10-31T13:00:15.010,41.798,-127.048,10,4.2,mb,43,209,,0.99,us,usp000juuj,2014-11-07T01:49:12.305,off the coast of Northern California,earthquake,,,,4,reviewed,us,us
+2012-11-03T00:47:41.700,41.794,-126.224,24.1,3.1,md,34,242.8,,,us,usp000juyh,2017-01-28T21:06:35.261,off the coast of Northern California,earthquake,,,,,reviewed,nc,nc
+2012-12-19T13:58:21.440,40.679,-127.214,10,4.2,mb,33,212.2,,0.86,us,usp000jx59,2014-11-07T01:49:37.813,off the coast of Northern California,earthquake,,,,1,reviewed,us,us
+2013-05-20T13:06:14.630,41.489,-126.974,10,2.9,ml,31,206.9,,1.24,us,us2013qkev,2014-11-07T01:50:51.190,"232km W of Crescent City, California",earthquake,,0,,,reviewed,us,us
+2013-05-20T13:10:57.220,41.121,-127.324,10,3.1,ml,22,215.8,,1.14,us,us2013qkew,2014-11-07T01:50:51.194,"265km WNW of Ferndale, California",earthquake,,,,,reviewed,us,us
+2013-05-20T13:12:44.040,41.375,-127.392,10,4.3,mb,119,175.7,,1.44,us,usb000gzrk,2017-01-31T17:05:10.318,"269km W of Crescent City, California",earthquake,,,,32,reviewed,us,us
+2013-05-20T13:19:30.680,41.323,-127.117,10,4.2,mb,42,176.9,,0.63,us,usb000gzqd,2014-11-07T01:50:51.208,"247km W of Crescent City, California",earthquake,,,,11,reviewed,us,us
+2013-05-20T13:20:53.180,41.364,-127.352,8.9,4.3,mb,85,190,,1.39,us,usb000gzrl,2014-11-07T01:50:51.212,"266km W of Crescent City, California",earthquake,,27.5,,21,reviewed,us,us
+2013-05-20T13:23:43.630,41.277,-127.252,10,4.2,mb,75,177.5,,0.91,us,usb000gzru,2014-11-07T01:50:51.219,"260km W of Crescent City, California",earthquake,,,,24,reviewed,us,us
+2013-05-20T13:34:02.070,41.145,-127.423,10,2.9,ml,16,219.8,,1.15,us,us2013qkex,2014-11-07T01:50:51.240,"273km WNW of Ferndale, California",earthquake,,0,,,reviewed,us,us
+2013-05-20T13:56:30.340,41.391,-127.001,10,4.2,mb,44,191.5,,0.93,us,usb000gzrs,2014-11-07T01:50:51.243,"236km W of Crescent City, California",earthquake,,,,9,reviewed,us,us
+2013-05-20T14:07:58.540,41.472,-127.064,10,4.4,mb,104,198.5,,1.22,us,usb000gzse,2017-01-31T17:05:44.453,"239km WSW of Brookings, Oregon",earthquake,,,,35,reviewed,us,us
+2013-07-25T03:38:02.700,40.56,-127.153,4.5,3.2,md,14,320,,,us,usc000infr,2017-02-01T05:36:51.432,"244km W of Ferndale, California",earthquake,,,,,reviewed,nc,nc
+2013-08-19T00:27:41.600,41.802,-126.7927,5,4.3,mwr,,302,1.949,1.44,us,usb000j66m,2017-02-01T09:12:57.789,"207km WSW of Gold Beach, Oregon",earthquake,,4.2,0.056,,reviewed,nc,us
+2013-11-01T06:13:15.520,41.0897,-127.4181,7.99,3,ml,,255,2.418,0.97,us,usb000kqti,2017-02-01T21:02:55.493,"272km WNW of Ferndale, California",earthquake,,8.7,0.069,,reviewed,us,us
+2013-11-03T05:58:46.490,41.1556,-127.1922,10,3.8,mb,,246,2.27,1.13,us,usb000krxc,2017-02-01T21:21:07.505,"255km WNW of Ferndale, California",earthquake,,2,0.253,,reviewed,us,us
+2013-11-04T05:57:16.140,41.0454,-127.2203,10,4.6,mb,,179,2.262,1.2,us,usb000ks9r,2017-02-01T21:28:48.894,"254km WNW of Ferndale, California",earthquake,,1.8,0.078,,reviewed,us,us
+2013-11-13T12:12:48.550,41.7636,-127.1539,10,2.9,ml,,266,2.228,0.72,us,usb000kwtk,2014-01-31T21:22:18.000,"237km WSW of Gold Beach, Oregon",earthquake,,2,0.062,,reviewed,us,us
+2013-11-13T12:17:43.070,41.7462,-126.9528,10,4,mb,,252,2.085,0.97,us,usb000kwtp,2017-02-01T23:01:57.142,"221km WSW of Gold Beach, Oregon",earthquake,,2,0.232,,reviewed,us,us
+2013-11-13T12:37:10.300,41.7797,-126.6566,10,3.2,ml,,245,1.862,1.25,us,usb000kwu2,2017-02-01T23:02:03.548,"197km WSW of Gold Beach, Oregon",earthquake,,2,0.056,,reviewed,us,us
+2013-11-14T23:48:00.000,41.8742,-126.2267,11,2.8,ml,,277,1.527,1.46,us,usb000l39x,2017-02-01T23:17:12.255,"160km WSW of Gold Beach, Oregon",earthquake,,8.7,0.17,,reviewed,nc,nc
+2013-12-01T02:39:17.600,41.6425,-126.9877,10,4.2,mb,,313,2.138,0.86,us,usb000l8mu,2017-02-02T01:28:32.861,"228km WSW of Gold Beach, Oregon",earthquake,,4,0.095,,reviewed,nc,us
+2013-12-01T03:19:38.090,41.6832,-126.8781,10.09,5.5,mww,,46,2.047,0.94,us,usb000l8n7,2017-02-02T01:28:54.370,"218km WSW of Gold Beach, Oregon",earthquake,,2.5,,,reviewed,us,us
+2013-12-01T10:03:06.200,41.7545,-127.0623,5,3.1,md,,298,2.165,1.07,us,usc000lh6e,2017-02-02T01:30:53.554,"230km WSW of Gold Beach, Oregon",earthquake,,9.4,0.2,,reviewed,nc,nc
+2013-12-01T13:19:23.790,41.7012,-126.949,10.55,3,ml,,202,2.094,1.14,us,usb000l8s4,2017-02-02T01:32:19.789,"223km WSW of Gold Beach, Oregon",earthquake,,3.1,0.1,,reviewed,us,nc
+2013-12-01T13:22:04.960,41.901,-126.74,10.85,2.9,ml,,200,1.897,1.48,us,usb000lbwr,2014-02-12T01:08:40.000,"199km WSW of Gold Beach, Oregon",earthquake,,8.1,0.059,,reviewed,us,us
+2013-12-01T13:27:13.370,41.7388,-126.9102,10,3,ml,,292,2.057,1.32,us,usb000l8s8,2017-02-02T01:32:25.311,"218km WSW of Gold Beach, Oregon",earthquake,,1.9,0.113,,reviewed,nc,nc
+2013-12-01T13:54:33.500,41.7405,-127.0315,10,3.1,ml,,295,2.138,1.25,us,usb000l8sp,2017-02-02T01:32:35.670,"228km WSW of Gold Beach, Oregon",earthquake,,5.8,0.1,,reviewed,nc,nc
+2013-12-10T13:36:35.000,41.724,-126.3232,21.4,2.8,ml,,298,1.635,0.66,us,usc000lhca,2017-02-02T02:54:07.475,"173km WSW of Brookings, Oregon",earthquake,,9.3,0.1,,reviewed,nc,nc
+2013-12-13T13:26:47.180,41.9265,-126.1318333,22.41,3.08,md,24,294,1.446,0.21,nc,nc72120085,2017-02-02T03:15:56.772,"136km WSW of Gold Beach, Oregon",earthquake,3.7,13.81,0.13,27,reviewed,nc,nc
+2014-01-12T12:52:44.000,41.9133,-126.1348,23.7,3,ml,,273,1.446,1.49,us,usc000m1k9,2017-02-02T21:21:34.480,"151km WSW of Gold Beach, Oregon",earthquake,,8.6,0.2,6,reviewed,nc,nc
+2014-01-30T00:02:55.660,41.8692,-126.8385,10,4.7,mb,,171,1.976,0.87,us,usc000mdbk,2017-02-03T00:36:35.783,"208km WSW of Gold Beach, Oregon",earthquake,,1.9,0.07,66,reviewed,us,us
+2014-01-30T01:45:18.300,40.4935,-126.1768,2.6,3.2,ml,,309,1.401,0.66,us,usc000mmn4,2017-02-03T00:37:09.514,"162km W of Ferndale, California",earthquake,,9.9,0.2,7,reviewed,nc,nc
+2014-01-30T10:34:40.490,41.8603,-126.9358,8.01,3,ml,,217,2.049,1.16,us,usc000mqk1,2014-04-08T01:43:17.000,"216km WSW of Gold Beach, Oregon",earthquake,,8.6,0.077,24,reviewed,us,us
+2014-01-30T11:42:58.720,41.8817,-127.0407,10,3,ml,,273,2.122,0.66,us,usc000mdkd,2014-04-08T01:43:17.000,"224km WSW of Gold Beach, Oregon",earthquake,,2,0.085,20,reviewed,us,us
+2014-01-31T00:15:28.300,41.716,-126.9267,16.7,2.8,ml,,306,2.075,0.74,us,usc000mmqm,2017-02-03T00:46:18.081,"221km WSW of Gold Beach, Oregon",earthquake,,9.2,0.18,7,reviewed,nc,nc
+2014-02-03T21:04:18.800,41.8058,-126.2462,21.7,3.3,ml,,277,1.554,1.82,us,usc000mggi,2017-02-03T01:20:30.615,"165km W of Brookings, Oregon",earthquake,,9,0.4,14,reviewed,nc,nc
+2014-02-07T16:06:41.050,40.5511,-126.9936,13.18,3.2,ml,,245,2.269,1.23,us,usc000mk86,2017-02-03T02:29:23.553,"231km W of Ferndale, California",earthquake,,12.9,0.066,32,reviewed,us,us
+2014-02-15T19:17:15.200,40.6464,-127.1811,10,3,ml,,261,2.4,0.67,us,usc000nfdf,2014-04-30T21:18:22.000,"246km W of Ferndale, California",earthquake,,2,0.081,22,reviewed,us,us
+2014-03-05T18:25:28.560,42.2457,-126.7988,10,3.4,mb,,219,1.911,0.54,us,usc000nbgq,2016-07-22T19:25:46.590,"196km W of Gold Beach, Oregon",earthquake,,2,0.245,7,reviewed,us,us
+2014-03-05T18:40:12.000,42.4313333,-126.5541667,4.011,2.61,md,6,338,2.15,2.95,uw,uw60708227,2016-07-22T19:25:46.820,off the coast of Oregon,earthquake,46.99,31.61,0.054,3,reviewed,uw,uw
+2014-03-13T19:11:34.640,41.9039,-126.8982,10,5.5,mww,,63,2.013,1.14,us,usc000nah5,2017-02-03T09:55:49.106,"212km WSW of Gold Beach, Oregon",earthquake,,1.8,,,reviewed,us,us
+2014-03-13T19:13:16.650,41.846,-126.88,10.16,4.6,mb,,88,2.01,1.02,us,usc000nnwk,2014-05-16T21:51:39.000,"212km WSW of Gold Beach, Oregon",earthquake,,4.2,0.097,36,reviewed,us,us
+2014-05-03T09:58:18.510,40.6411667,-126.1126667,4.912,2.92,md,32,313,1.361,0.14,nc,nc72214916,2017-02-03T17:53:14.969,"156km W of Ferndale, California",earthquake,5.28,6.26,0.2,27,reviewed,nc,nc
+2014-05-15T11:57:07.370,41.1542,-127.1415,10,3.2,md,,320,2.233,0.92,us,usb000r28t,2017-02-03T19:58:57.845,"250km WNW of Ferndale, California",earthquake,,2,0.172,37,reviewed,nc,nc
+2014-05-25T06:22:08.550,42.4268333,-126.9208333,3.864,2.59,md,14,302,2.341,0.59,uw,uw60782957,2016-07-22T19:29:14.450,off the coast of Oregon,earthquake,4.38,31.61,0.064,7,reviewed,uw,uw
+2014-06-12T20:48:10.740,41.5998,-126.9047,10,3.2,md,,312,2.243,0.48,us,usc000rlgu,2017-02-04T00:14:16.633,"223km WSW of Brookings, Oregon",earthquake,,2,0.12,27,reviewed,nc,nc
+2014-06-15T09:21:55.910,41.7197,-127.0215,10,3.2,md,,322,2.343,1.21,us,usc000rmju,2017-02-04T00:33:35.062,"228km WSW of Gold Beach, Oregon",earthquake,,2,0.156,22,reviewed,nc,nc
+2014-07-07T09:48:08.600,41.8245,-126.1337,21.83,3.1,md,,281,1.687,0.78,us,usb000s15b,2017-02-04T03:53:23.972,"155km W of Brookings, Oregon",earthquake,,9.3,0.155,21,reviewed,nc,nc
+2014-09-10T00:55:03.600,40.5137,-126.4872,4.9,3,md,,298,1.635,0.66,us,usb000sdl9,2017-02-04T14:10:50.379,"188km W of Ferndale, California",earthquake,9,9.4,0.1,21,reviewed,nc,nc
+2014-09-29T14:54:24.110,41.927,-126.2331667,16.72,2.6,ml,23,278,1.52,0.22,nc,nc72316856,2017-02-04T20:24:01.022,"158km WSW of Gold Beach, Oregon",earthquake,4.35,6.82,0.161,4,reviewed,nc,nc
+2014-10-03T08:58:39.520,41.9018,-126.1825,24.73,4.3,mwr,,,,1.14,us,usb000sifq,2017-02-04T21:11:32.810,"155km WSW of Gold Beach, Oregon",earthquake,6.9,7.8,,4,reviewed,nc,nc
+2014-10-14T14:09:21.810,41.9191667,-126.1195,12.37,2.9,md,27,274,1.439,0.23,nc,nc72327036,2017-02-04T23:17:38.492,"150km WSW of Gold Beach, Oregon",earthquake,2.36,4.65,0.102,17,reviewed,nc,nc
+2014-11-06T19:32:20.690,42.259,-127.0427,10,3,ml,,221,2.092,0.8,us,usc000sv4b,2016-07-22T19:40:53.360,"216km W of Gold Beach, Oregon",earthquake,10.4,2,0.062,36,reviewed,us,us
+2014-11-07T08:53:59.020,41.9143,-126.3465,24.2,3.2,ml,,281,1.607,1.38,us,usc000svbg,2017-02-05T02:43:39.687,"168km WSW of Gold Beach, Oregon",earthquake,8.3,2,0.224,14,reviewed,nc,nc
+2014-11-17T18:26:47.390,41.1376,-126.9482,10,3.3,md,,258,2.232,0.68,us,usc000sy6z,2017-02-05T04:59:31.704,"234km WNW of Ferndale, California",earthquake,4.4,2,0.164,34,reviewed,us,nc
+2014-11-25T03:54:06.020,41.6841667,-126.2033333,21.33,2.84,ml,29,294,1.566,0.2,nc,nc72354521,2017-02-05T06:44:57.921,"164km WSW of Brookings, Oregon",earthquake,4.34,9.53,0.215,11,reviewed,nc,nc
+2014-11-25T09:10:15.360,41.7098333,-126.2618333,21.87,2.78,ml,27,294,1.598,0.18,nc,nc72354786,2017-02-05T06:49:35.870,"168km WSW of Brookings, Oregon",earthquake,3.06,12.67,0.168,8,reviewed,nc,nc
+2014-12-19T01:42:30.370,41.0051,-127.3106,10,4.6,mwr,,208,2.493,0.92,us,usc000t84b,2017-02-05T10:14:15.349,"261km WNW of Ferndale, California",earthquake,8.9,2,0.089,12,reviewed,us,us
+2014-12-19T01:53:05.680,41.2438,-127.3495,7.79,3.8,mb,,195,2.53,1.35,us,usc000tcs7,2015-03-06T02:59:02.040,"268km W of Crescent City, California",earthquake,10.9,6.4,0.359,3,reviewed,us,us
+2014-12-19T02:35:02.270,40.8417,-126.5622,6.71,3.6,mb,,255,1.921,0.93,us,usc000t84j,2017-02-05T10:14:57.984,"196km W of Ferndale, California",earthquake,11.3,13.2,0.353,7,reviewed,us,us
+2014-12-19T02:40:02.490,41.1093,-126.819,12.64,4.4,mb,,205,2.132,0.96,us,usc000t84t,2017-02-05T10:15:03.333,"223km WNW of Ferndale, California",earthquake,10.5,7.1,0.107,32,reviewed,us,us
+2014-12-23T00:37:22.010,41.8479,-126.8775,10,3.1,ml,,253,2.008,1.02,us,usc000t9at,2017-02-05T10:49:57.822,"212km WSW of Gold Beach, Oregon",earthquake,8.1,2,0.059,38,reviewed,us,us
+2015-01-11T18:49:50.690,41.8069,-126.5622,10.64,2.5,ml,,258,1.787,1.06,us,usc000tibq,2015-04-10T18:56:36.040,"189km WSW of Gold Beach, Oregon",earthquake,9.6,10.3,0.071,26,reviewed,us,us
+2015-02-12T14:09:08.630,41.3941,-126.9719,11.04,2.8,ml,,263,2.501,1.46,us,usb000tqa7,2015-05-11T23:20:09.040,"234km W of Crescent City, California",earthquake,10,10.1,0.091,16,reviewed,us,us
+2015-02-26T16:13:31.700,41.792,-126.7413,13.4,4,mb,,236,1.921,1.77,us,usc000ttcu,2015-05-19T00:28:44.040,"203km WSW of Gold Beach, Oregon",earthquake,10.2,8.8,0.196,8,reviewed,us,us
+2015-02-26T17:45:28.810,41.6995,-126.8291,10.64,2.5,ml,,224,2.008,0.23,us,usc000tuls,2015-05-19T00:28:44.040,"214km W of Brookings, Oregon",earthquake,12.2,5.1,0.085,18,reviewed,us,us
+2015-03-04T13:51:38.380,40.6706,-127.0117,11.67,3,md,,260,2.27,0.84,us,usc000tuxi,2017-02-07T08:52:54.581,"232km W of Ferndale, California",earthquake,9.3,9.8,0.113,13,reviewed,us,nc
+2015-03-17T14:00:35.570,41.8449,-126.1981,10.45,3.1,md,,283,1.514,0.43,us,us10001q2p,2017-02-07T10:49:57.626,"159km WSW of Gold Beach, Oregon",earthquake,7.4,10.6,0.089,12,reviewed,us,nc
+2015-04-10T07:04:24.330,41.7687,-126.5961,10,2.5,ml,,240,1.821,0.87,us,us200025jr,2015-06-22T23:18:55.040,"193km WSW of Gold Beach, Oregon",earthquake,9.4,2,0.059,38,reviewed,us,us
+2015-05-03T15:29:13.520,40.5337,-127.2254,11.24,3.3,ml,,198,2.447,1.04,us,us20002azy,2017-02-07T17:59:49.318,"250km W of Ferndale, California",earthquake,10.7,4.8,,,reviewed,us,nc
+2015-08-13T18:27:23.390,41.3844,-126.9374,10,3.8,mb,,220,2.189,1.39,us,us100035sx,2015-11-17T00:13:25.040,"231km W of Crescent City, California",earthquake,10.1,2,0.207,6,reviewed,us,us
+2015-08-13T18:48:48.950,41.2922,-127.3103,10,4.5,mb,,174,2.484,1.37,us,us1000321k,2015-11-17T00:13:26.040,"264km W of Crescent City, California",earthquake,8.2,1.3,0.063,73,reviewed,us,us
+2015-08-14T06:41:31.900,41.2821,-127.1043,10,4.4,mb,,207,2.345,1.04,us,us10003271,2017-02-08T07:41:12.715,"247km WSW of Crescent City, California",earthquake,8.7,1.9,0.112,23,reviewed,us,us
+2015-08-22T12:33:54.560,40.6404,-127.2633,14.55,4.4,mb,,205,2.4,0.96,us,us10003472,2017-02-08T08:42:44.602,"253km W of Ferndale, California",earthquake,9.3,7.8,0.148,13,reviewed,us,us
+2015-09-24T18:42:05.770,41.7291,-126.6908,10,2.7,ml,,245,2.096,0.93,us,us10003lf6,2015-12-28T23:08:38.040,"202km W of Brookings, Oregon",earthquake,3.7,2,0.069,28,reviewed,us,us
+2015-10-15T01:15:12.710,40.6453,-127.2007,11.91,3.1,md,,267,2.354,0.83,us,us10003pam,2017-02-08T13:21:54.633,"248km W of Ferndale, California",earthquake,9.5,9.5,0.137,16,reviewed,us,nc
+2015-10-22T18:35:49.010,42.3911667,-126.9261667,3.82,2.57,md,14,306,2.337,0.83,uw,uw61082062,2016-07-22T19:59:17.000,off the coast of Oregon,earthquake,7.37,31.61,0.011,5,reviewed,uw,uw
+2015-10-23T16:52:42.690,40.8723333,-126.9433333,2.68,2.96,md,15,316,2.096,0.18,nc,nc72542575,2017-02-08T14:54:35.991,"228km W of Ferndale, California",earthquake,2.4,31.61,0.087,10,reviewed,nc,nc
+2016-01-09T13:44:32.570,42.291,-126.913,3.99,2.58,md,12,319,1.996,0.62,uw,uw61117876,2016-07-22T20:01:55.290,off the coast of Oregon,earthquake,7,31.61,0.087,5,reviewed,uw,uw
+2016-01-25T17:11:14.600,40.7065,-126.7482,10,2.9,ml,,259,2.022,0.95,us,us20004uja,2017-02-09T20:58:03.124,"210km W of Ferndale, California",earthquake,5.6,2,0.05,52,reviewed,us,us
+2016-01-28T09:22:14.400,40.8285,-127.194,10,4.3,mb,,180,2.374,1.47,us,us20004v9m,2017-02-09T21:14:35.960,"249km W of Ferndale, California",earthquake,5.1,1.9,0.134,16,reviewed,us,us
+2016-01-29T09:35:09.960,40.7634,-127.3127,10,4.1,mb,,194,2.455,1,us,us20004vh5,2017-02-09T21:21:14.366,"258km W of Ferndale, California",earthquake,9.1,2,0.144,13,reviewed,us,us
+2016-01-29T10:05:42.090,40.9027,-127.2796,10,3.2,ml,,211,2.451,1.11,us,us20004wua,2016-04-14T22:51:33.040,"257km W of Ferndale, California",earthquake,4.6,2,0.057,40,reviewed,us,us
+2016-01-29T10:08:59.830,41.0179,-127.4591,10,3.2,ml,,271,2.6,0.81,us,us20004wuv,2016-04-14T22:51:33.040,"274km WNW of Ferndale, California",earthquake,13.3,2,0.064,32,reviewed,us,us
+2016-01-29T10:21:31.000,40.8348,-127.2047,10,4.1,mb,,106,2.383,1.19,us,us20004vhd,2017-02-09T21:21:54.409,"250km W of Ferndale, California",earthquake,5.9,1.9,0.131,16,reviewed,us,us
+2016-01-29T14:06:40.890,40.9241,-127.2332,15.32,3.4,ml,,266,2.42,1.01,us,us20004via,2017-02-09T21:23:06.963,"253km W of Ferndale, California",earthquake,9.7,9.8,0.05,52,reviewed,us,us
+2016-01-29T14:38:25.220,40.9316,-127.1335,12.92,3.2,ml,,282,2.348,0.7,us,us20004wuz,2016-04-14T22:51:33.040,"245km W of Ferndale, California",earthquake,11.7,10.4,0.055,44,reviewed,us,us
+2016-01-30T00:28:41.960,40.9167,-127.2074,10,5.1,mww,,73,2.354,1.13,us,us20004vq3,2017-02-09T21:26:29.410,"251km W of Ferndale, California",earthquake,6.3,1.8,,,reviewed,us,us
+2016-01-30T00:28:53.270,42.4613333,-126.7803333,4.63,3.93,ml,11,310,1.91,4.73,uw,uw61105502,2016-07-22T20:02:29.310,off the coast of Oregon,earthquake,53.16,31.61,0.131,11,reviewed,uw,uw
+2016-01-30T00:30:52.570,41.0363,-127.3842,10,5,mww,,106,2.542,0.89,us,us20004vq9,2017-02-09T21:26:43.960,"268km WNW of Ferndale, California",earthquake,7.2,1.9,,,reviewed,us,us
+2016-02-10T08:41:57.570,41.0922,-127.2914,8.17,3.4,ml,,179,2.469,0.93,us,us20004z8u,2016-04-19T01:33:28.040,"261km WNW of Ferndale, California",earthquake,9.1,5.8,0.049,54,reviewed,us,us
+2016-03-30T14:20:44.440,41.1046,-126.7299,10,2.7,ml,,274,2.045,0.93,us,us20005fm6,2016-06-10T23:32:58.040,"216km WNW of Ferndale, California",earthquake,11.3,2,0.055,44,reviewed,us,us
+2016-03-30T19:47:45.150,40.9986,-127.1611,10,4.6,mb,,175,2.377,1.24,us,us20005dh8,2017-02-10T06:28:36.260,"248km WNW of Ferndale, California",earthquake,5,1.9,0.057,92,reviewed,us,us
+2016-03-31T04:23:40.340,41.1377,-127.1573,10.18,2.8,ml,,224,2.366,0.83,us,us20005dl9,2016-06-10T23:32:58.040,"251km WNW of Ferndale, California",earthquake,11.8,8.3,0.06,36,reviewed,us,us
+2016-03-31T04:49:30.700,41.1202,-127.175,8.23,2.9,ml,,257,2.38,0.73,us,us20005dld,2016-06-10T23:32:58.040,"252km WNW of Ferndale, California",earthquake,13.1,9.2,0.059,38,reviewed,us,us
+2016-03-31T04:52:48.560,41.1825,-127.2883,9.01,2.8,ml,,251,2.464,0.63,us,us20005fv3,2016-06-10T23:32:58.040,"263km WNW of Ferndale, California",earthquake,12.8,9.1,0.069,28,reviewed,us,us
+2016-03-31T13:29:05.080,40.8396,-126.7769,11.5,3.1,ml,,281,2.065,0.72,us,us20005dnh,2017-02-10T06:34:28.741,"214km W of Ferndale, California",earthquake,14,16.7,0.095,4,reviewed,us,nc
+2016-05-02T11:34:24.650,41.7811,-126.2016,11.28,3,md,,253,1.751,0.61,us,us10005d78,2017-02-10T10:00:34.194,"161km W of Brookings, Oregon",earthquake,8.7,9.7,0.118,14,reviewed,us,nc
+2016-05-12T20:30:46.690,42.4276,-127.2403,10,2.7,ml,,279,2.189,0.74,us,us10005gwx,2016-07-20T18:10:55.040,"227km W of Port Orford, Oregon",earthquake,10.3,2,0.062,34,reviewed,us,us
+2016-06-04T16:58:24.880,40.5201,-126.8635,8.96,3.1,ml,,261,2.08,0.63,us,us2000622c,2017-02-10T13:18:59.569,"220km W of Ferndale, California",earthquake,10.2,14.5,0.06,36,reviewed,us,us
+2016-06-13T14:27:43.960,42.0045,-126.528,4.82,2.56,ml,17,311,1.63,0.67,uw,uw61167456,2016-08-01T17:50:17.660,off the coast of Oregon,earthquake,3.57,31.61,0.176,3,reviewed,uw,uw
+2016-06-18T13:26:14.190,40.6485,-126.8238333,4.63,2.88,md,17,314,1.9,0.18,nc,nc72652641,2017-02-10T14:33:42.323,"216km W of Ferndale, California",earthquake,6.01,31.61,0.115,12,reviewed,nc,nc
+2016-06-24T05:09:49.970,42.005,-126.1879,10,3,ml,,241,1.474,1.1,us,us200066eh,2016-08-31T03:08:13.040,"152km WSW of Gold Beach, Oregon",earthquake,8.6,2,0.045,66,reviewed,us,us
+2016-07-10T01:51:48.760,40.8068333,-126.97,4.57,2.81,md,11,341,2.028,0.12,nc,nc72659916,2017-02-10T16:07:28.774,"230km W of Ferndale, California",earthquake,9.71,8.01,0.055,7,reviewed,nc,nc
+2016-08-11T23:28:52.120,41.6399,-127.0412,9.48,3,ml,,245,2.177,0.76,us,us10006d4x,2016-10-26T03:10:26.040,"233km W of Brookings, Oregon",earthquake,10.4,9.1,0.049,54,reviewed,us,us
+2016-09-02T21:25:22.370,41.4923,-126.1941,11.12,3,ml,,243,1.636,1.07,us,us10006jsb,2017-02-10T23:02:13.707,"168km W of Crescent City, California",earthquake,8.2,9.4,0.129,12,reviewed,us,nc
+2016-09-25T05:01:50.050,41.8428,-126.1354,10,4.9,mww,,163,1.465,0.82,us,us10006shx,2017-02-11T01:33:14.310,"154km WSW of Gold Beach, Oregon",earthquake,5.7,1.9,,,reviewed,us,us
+2016-09-25T07:42:07.130,41.8298333,-126.4246667,22.99,2.93,ml,22,282,1.68,0.14,nc,nc72702236,2017-02-11T01:34:42.849,"177km WSW of Gold Beach, Oregon",earthquake,3.77,31.61,0.159,11,reviewed,nc,nc
+2016-09-25T09:50:51.190,41.8519,-126.0759,15.77,4.6,mb,,191,1.424,1.34,us,us10006sj1,2017-02-11T01:35:43.850,"150km W of Brookings, Oregon",earthquake,6.7,6.5,0.097,32,reviewed,us,us
+2016-09-27T10:25:45.230,41.8124,-126.9099,10,2.8,ml,,272,2.039,1.16,us,us10006t4b,2016-12-14T03:17:53.040,"216km WSW of Gold Beach, Oregon",earthquake,6.5,2,0.052,48,reviewed,us,us
+2016-11-16T05:06:53.610,40.7005,-127.1354,12.59,3.2,ml,,266,2.142,0.66,us,us100078nr,2017-02-11T07:23:36.455,"243km W of Ferndale, California",earthquake,11.2,10.1,0.066,30,reviewed,us,us
+2016-11-16T07:21:05.740,40.6401,-127.1228,9.54,3.2,md,,263,2.128,0.97,us,us100079t0,2017-02-11T07:23:47.020,"242km W of Ferndale, California",earthquake,10.7,8.3,0.19,27,reviewed,us,nc
+2016-12-06T17:07:28.320,41.4364,-126.3567,10,4.3,mwr,,162,1.758,1.21,us,us10007f7c,2017-03-03T07:06:05.040,"183km W of Crescent City, California",earthquake,6,1.9,0.052,35,reviewed,us,us
+2016-12-09T12:14:05.000,40.4853333,-126.3118333,9.62,2.91,ml,17,322,1.505,0.19,nc,nc72734975,2017-02-11T09:45:32.574,"173km W of Ferndale, California",earthquake,2.62,31.61,0.222,6,reviewed,nc,nc
+2016-12-15T03:48:10.460,40.5121,-126.9514,11.97,4.3,mb,,202,1.993,0.97,us,us200080xc,2017-03-09T02:14:31.040,"227km W of Ferndale, California",earthquake,9,7.6,0.101,28,reviewed,us,us
+2016-12-17T07:42:10.350,40.5133333,-126.8983333,9.62,2.94,ml,12,329,1.951,0.09,nc,nc72739955,2017-02-11T11:09:51.881,"223km W of Ferndale, California",earthquake,1.42,31.61,0.187,4,reviewed,nc,nc
+2016-12-22T03:42:49.840,41.0506,-127.1677,9.18,3.1,ml,,232,2.31,0.55,us,us10007nuh,2017-03-16T02:31:33.040,"250km WNW of Ferndale, California",earthquake,4.5,8.9,0.062,34,reviewed,us,us
+2017-01-03T02:18:59.980,41.7504,-126.4755,10,3.2,ml,,247,1.739,0.71,us,us10007pdm,2017-03-27T23:53:19.040,"184km W of Brookings, Oregon",earthquake,8.2,2,0.05,52,reviewed,us,us
+2017-01-06T08:48:34.730,42.4439,-126.7382,10,3.2,ml,,235,1.824,1.24,us,us10007rky,2017-03-27T23:53:24.040,"186km W of Port Orford, Oregon",earthquake,9.2,2,0.048,58,reviewed,us,us
+2017-01-06T17:27:10.410,40.489,-126.2479,9.02,2.7,ml,,255,1.457,1,us,us10007t0k,2017-03-27T23:53:25.040,"168km W of Ferndale, California",earthquake,8.6,13.8,0.057,40,reviewed,us,us
+2017-01-10T15:43:57.290,42.3306,-126.7644,10,4.3,mb,,239,1.887,1.09,us,us10007vkw,2017-04-01T00:26:07.040,"191km WSW of Port Orford, Oregon",earthquake,11.4,2,0.376,2,reviewed,us,us
+2017-02-21T11:22:30.120,40.7985,-126.9908,10,4,mb,,209,2.044,0.83,us,us20008lnj,2017-05-17T01:19:34.040,"231km W of Ferndale, California",earthquake,7.8,2,0.108,23,reviewed,us,us
+2017-03-07T08:48:09.330,40.8386667,-126.9733333,4.48,2.94,md,13,341,2.038,0.2,nc,nc72771311,2017-03-08T02:28:02.477,"230km W of Ferndale, California",earthquake,13.59,10.97,0.061,7,reviewed,nc,nc
+2017-03-12T22:31:59.450,40.6425,-127.2122,12.61,3.3,ml,,262,2.196,0.89,us,us100088ke,2017-06-07T00:33:37.040,"249km W of Ferndale, California",earthquake,10.5,9.8,0.06,36,reviewed,us,us
+2017-03-27T09:19:56.100,41.8291,-126.8392,10,4.2,mwr,,177,2.219,1.31,us,us20008uz8,2017-06-16T23:07:58.040,"209km WSW of Gold Beach, Oregon",earthquake,6.7,1.9,0.049,40,reviewed,us,us
+2017-06-17T16:20:24.370,41.8801,-126.7989,10.64,2.7,ml,,266,2.077,0.91,us,us20009na6,2017-08-18T23:13:32.040,"205km WSW of Gold Beach, Oregon",earthquake,8.2,10.1,0.057,40,reviewed,us,us
+2017-08-14T20:14:22.400,41.9578333,-126.0903333,4.69,2.99,md,24,274,1.411,0.32,nc,nc72868525,2017-08-24T03:36:03.203,"146km WSW of Gold Beach, Oregon",earthquake,5.2,11.49,0.067,14,reviewed,nc,nc
+2017-08-16T21:09:33.390,41.4952,-126.9321,10,3.9,mb,,264,2.144,0.55,us,us2000a8x2,2017-11-14T01:42:11.040,"228km WSW of Brookings, Oregon",earthquake,6.7,2,0.21,6,reviewed,us,us
+2017-09-07T00:35:41.240,40.4886,-126.9598,10,2.7,ml,,259,2,0.54,us,us2000am11,2017-12-07T20:00:18.040,"228km W of Ferndale, California",earthquake,8.3,2,0.06,36,reviewed,us,us
+2017-09-08T15:31:27.580,40.6561667,-126.4015,4.61,2.76,md,18,311,1.583,0.21,nc,nc72888561,2017-09-13T05:28:03.208,"181km W of Ferndale, California",earthquake,13.98,18.65,0.122,15,reviewed,nc,nc
+2017-09-22T16:14:55.160,40.7072,-127.2508,13.58,3,ml,,266,2.23,0.65,us,us2000atfk,2017-12-19T01:54:12.040,"253km W of Ferndale, California",earthquake,11.2,10,0.059,38,reviewed,us,us
+2017-10-15T19:37:07.100,41.8142,-126.7256,10.02,2.8,ml,,266,1.904,0.41,us,us1000ask7,2018-01-11T02:22:02.040,"201km WSW of Gold Beach, Oregon",earthquake,6.2,9.9,0.055,44,reviewed,us,us
+2017-10-17T14:02:30.870,41.2886,-126.8083,7.23,2.5,ml,,296,2.041,0.82,us,us1000at9h,2018-01-11T02:22:04.040,"223km WSW of Crescent City, California",earthquake,7.2,10.3,0.077,22,reviewed,us,us
+2017-10-17T14:58:45.970,41.2066,-127.44,8.71,2.9,ml,,282,2.464,0.35,us,us1000atay,2018-01-11T02:22:04.040,"276km WNW of Ferndale, California",earthquake,11.5,9.7,0.066,30,reviewed,us,us
+2017-10-17T15:12:40.190,41.226,-127.0948,9.59,2.7,ml,,291,2.221,0.42,us,us1000atbp,2018-01-11T02:22:04.040,"248km WSW of Crescent City, California",earthquake,9.1,9.8,0.064,32,reviewed,us,us
+2017-10-17T15:20:19.170,41.2808,-126.977,10.55,2.8,ml,,293,2.157,0.33,us,us1000atbe,2018-01-11T02:22:04.040,"237km WSW of Crescent City, California",earthquake,7.9,10.1,0.059,38,reviewed,us,us
+2017-10-17T15:22:13.910,41.277,-127.1684,8.48,2.8,ml,,277,2.375,0.22,us,us1000atbf,2018-01-11T02:22:04.040,"253km W of Crescent City, California",earthquake,12,9.6,0.056,42,reviewed,us,us
+2017-10-17T16:54:44.140,41.1741,-127.5145,8.45,2.8,ml,,243,2.635,0.36,us,us1000awm8,2018-01-11T02:22:05.040,"281km WNW of Ferndale, California",earthquake,4.6,9,0.066,30,reviewed,us,us
+2017-10-18T01:30:10.460,41.1997,-127.1635,10,4.2,mb,,208,2.262,1.14,us,us1000atkm,2018-01-11T02:22:05.040,"253km WNW of Ferndale, California",earthquake,8,2,0.073,52,reviewed,us,us
+2018-02-28T00:30:36.460,41.9458,-126.3424,10,3.2,ml,,239,1.597,1.3,us,us2000d8xx,2018-05-27T01:06:04.040,"166km WSW of Gold Beach, Oregon",earthquake,3.5,2,0.042,76,reviewed,us,us
+2018-03-02T12:28:55.830,42.4023,-126.3874,10,3.3,ml,,240,1.586,0.95,us,us1000d2b7,2018-05-27T01:06:09.040,"159km WSW of Port Orford, Oregon",earthquake,2.7,2,0.042,76,reviewed,us,us
+2018-03-14T13:16:47.790,40.6127,-127.2648,10,3.1,ml,,274,2.234,0.65,us,us1000d5iy,2018-06-11T21:53:44.040,"254km W of Ferndale, California",earthquake,4.9,2,0.062,34,reviewed,us,us
+2018-05-08T09:56:25.140,41.8934,-126.2058,10,2.8,ml,,232,1.508,1.11,us,us1000e0k0,2018-08-08T15:19:29.040,"158km WSW of Gold Beach, Oregon",earthquake,8.5,2,0.041,80,reviewed,us,us
+2018-05-12T17:19:27.070,41.4913,-127.006,8.38,3,ml,,244,2.198,0.91,us,us1000e75k,2018-08-08T15:22:16.040,"234km WSW of Brookings, Oregon",earthquake,4.1,9.3,0.049,54,reviewed,us,us
+2018-05-14T08:44:25.750,40.6876,-127.0819,10,3.1,ml,,239,2.1,0.79,us,us1000e4k8,2018-08-15T19:46:49.040,"238km W of Ferndale, California",earthquake,5.5,2,0.048,58,reviewed,us,us
+2018-05-15T23:39:24.330,41.9951,-126.8169,10,3.8,mb,,258,1.94,0.65,us,us1000e808,2018-08-15T19:46:52.040,"203km WSW of Gold Beach, Oregon",earthquake,6.4,2,0.18,8,reviewed,us,us
+2018-05-30T15:41:04.360,40.5779,-127.3782,10,4.2,mb,,179,2.489,1.34,us,us1000eetz,2018-08-28T16:28:50.040,"263km W of Ferndale, California",earthquake,4.3,1.9,0.088,36,reviewed,us,us
+2018-06-10T11:05:41.460,40.717,-127.1391,11.24,2.9,ml,,257,2.146,0.73,us,us1000emnz,2018-08-29T16:36:38.040,"243km W of Ferndale, California",earthquake,9.4,9.3,0.048,56,reviewed,us,us
+2018-07-24T12:16:31.960,41.7122,-126.7798,10,4.9,mww,,193,1.969,0.91,us,us2000gck6,2018-10-09T16:43:29.040,"209km WSW of Gold Beach, Oregon",earthquake,6.7,2,0.039,62,reviewed,us,us
+2018-07-24T14:28:15.680,41.8055,-126.6563,10,5.2,mww,,192,1.856,0.91,us,us2000gcng,2018-10-09T16:43:29.040,"196km WSW of Gold Beach, Oregon",earthquake,8.6,1.9,0.042,54,reviewed,us,us
+2018-07-24T14:33:26.060,41.7924,-126.7576,10,3.5,ml,,262,1.933,0.6,us,us2000gcnp,2018-10-09T16:43:29.040,"204km WSW of Gold Beach, Oregon",earthquake,9.4,2,0.043,70,reviewed,us,us
+2018-07-24T14:35:43.410,41.7631,-126.6931,10,4.3,mb,,198,1.893,0.53,us,us2000gcnz,2018-10-09T16:43:29.040,"201km WSW of Gold Beach, Oregon",earthquake,3.4,2,0.089,36,reviewed,us,us
+2018-07-24T14:38:30.470,41.8129,-126.7034,10,3.2,ml,,261,1.888,0.79,us,us2000gcnx,2018-10-09T16:43:29.040,"199km WSW of Gold Beach, Oregon",earthquake,9.5,2,0.049,54,reviewed,us,us
+2018-07-24T14:42:04.220,41.8083,-126.7405,10,4.3,mb,,207,1.916,0.91,us,us2000gcpe,2018-10-09T16:43:29.040,"202km WSW of Gold Beach, Oregon",earthquake,8.3,2,0.161,11,reviewed,us,us
+2018-07-24T14:44:52.570,41.8105,-126.8616,10,5.6,mww,,108,2.004,0.65,us,us2000gcpa,2018-10-09T16:43:29.040,"212km WSW of Gold Beach, Oregon",earthquake,8,1.8,0.032,93,reviewed,us,us
+2018-07-24T16:00:17.500,41.6762,-126.809,10.87,2.8,ml,,282,2,0.29,us,us2000gcs3,2018-10-09T16:43:29.040,"213km W of Brookings, Oregon",earthquake,12.1,10.5,0.053,46,reviewed,us,us
+2018-07-24T16:35:34.710,41.6185,-127.0043,10,2.9,ml,,261,2.156,0.7,us,us2000gf7k,2018-10-09T16:43:29.040,"231km W of Brookings, Oregon",earthquake,11.3,2,0.055,44,reviewed,us,us
+2018-07-24T17:22:34.740,41.7482,-126.9917,10,4.9,mww,,174,2.113,1.05,us,us2000gcvi,2018-10-09T16:43:29.040,"224km WSW of Gold Beach, Oregon",earthquake,6.3,1.7,0.046,46,reviewed,us,us
+2018-07-24T17:52:03.680,41.7859,-126.8617,10,3.1,ml,,234,2.01,0.64,us,us2000gcw2,2018-10-09T16:43:29.040,"213km WSW of Gold Beach, Oregon",earthquake,8.5,2,0.043,70,reviewed,us,us
+2018-07-24T18:57:16.900,42.0333,-126.6122,10,3.6,mb,,248,1.784,1.23,us,us2000gf7p,2018-10-09T16:43:29.040,"185km WSW of Gold Beach, Oregon",earthquake,9,2,0.25,5,reviewed,us,us
+2018-08-05T20:31:46.320,42.4194,-126.4232,10,2.6,ml,,239,1.642,0.65,us,us1000g3x7,2018-10-16T15:34:13.040,"162km WSW of Port Orford, Oregon",earthquake,4.7,2,0.046,62,reviewed,us,us
+2018-08-11T01:16:48.350,41.91,-126.143,22.8,2.6,ml,,,,0.44,us,us1000gb31,2018-10-17T18:11:54.040,"152km WSW of Gold Beach, Oregon",earthquake,7.8,9.3,0.09,8,reviewed,nc,nc
+2018-09-17T06:01:55.550,40.5593333,-126.7608333,7.15,2.92,md,19,300,1.849,0.25,nc,nc73085205,2018-09-29T02:04:02.653,"211km W of Ferndale, CA",earthquake,10.85,9.74,0.078,13,reviewed,nc,nc
+2018-10-02T07:26:18.930,40.5429,-126.9827,10,3,ml,,248,2.186,1.22,us,us1000h5ir,2018-12-14T20:32:39.040,"230km W of Ferndale, California",earthquake,4.5,2,0.046,62,reviewed,us,us
+2018-10-28T17:18:51.530,40.5487,-127.1259,10,3.2,ml,,284,2.295,0.79,us,us2000i5zi,2019-01-10T17:18:44.040,"242km W of Ferndale, California",earthquake,10.2,2,0.053,46,reviewed,us,us
+2018-10-31T05:17:22.920,42.3895,-126.8077,10,2.9,ml,,303,1.923,0.85,us,us2000i4f4,2019-01-21T14:29:40.040,"193km W of Port Orford, Oregon",earthquake,5.1,2,0.057,40,reviewed,us,us
+2018-11-09T06:42:46.880,42.055,-126.0683,10,2.8,ml,,228,1.379,1,us,us1000hpky,2019-01-21T16:42:54.040,"141km WSW of Gold Beach, Oregon",earthquake,6.4,2,0.042,74,reviewed,us,us
+2018-11-16T05:10:00.130,42.2852,-126.6826,10,3.9,mb,,214,1.825,0.94,us,us1000hsj9,2019-01-30T18:36:24.040,"186km W of Gold Beach, Oregon",earthquake,8.6,2,0.171,9,reviewed,us,us
+2018-11-16T05:19:19.360,42.263,-126.8955,10,4.1,mb,,200,1.983,0.72,us,us1000hsjg,2019-01-30T18:36:24.040,"204km W of Gold Beach, Oregon",earthquake,8.5,2,0.12,19,reviewed,us,us
+2018-11-16T05:21:57.810,42.3753,-126.6854,10,4.5,mb,,184,1.831,1.2,us,us1000hsji,2019-01-30T18:36:24.040,"184km WSW of Port Orford, Oregon",earthquake,6.8,1.9,0.089,37,reviewed,us,us
+2018-11-16T06:41:39.960,42.3724,-126.4818,10,3.8,mb,,212,1.681,0.82,us,us1000hske,2019-01-30T18:36:25.040,"168km WSW of Port Orford, Oregon",earthquake,7.8,2,0.192,7,reviewed,us,us
+2018-11-16T10:44:58.850,42.3344,-126.8885,10,4.3,mb,,185,1.979,1.32,us,us1000hsnv,2019-01-30T18:36:25.040,"201km WSW of Port Orford, Oregon",earthquake,5.9,2,0.081,66,reviewed,us,us
+2018-11-16T12:44:15.750,42.4625,-126.3095,10,3.9,mb,,177,1.564,1.31,us,us1000hspv,2019-01-30T18:36:25.040,"151km WSW of Port Orford, Oregon",earthquake,8,2,0.21,10,reviewed,us,us
+2018-12-11T06:33:56.860,42.3517,-126.5191,10,3,ml,,295,1.707,0.6,us,us2000isfp,2019-02-16T22:29:04.040,"171km WSW of Port Orford, Oregon",earthquake,10.2,2,0.062,34,reviewed,us,us
+2018-12-11T13:34:03.540,42.2724,-126.9069,10,3.1,ml,,273,1.991,0.29,us,us2000iuq2,2019-02-16T22:29:04.040,"204km WSW of Port Orford, Oregon",earthquake,11.3,2,0.052,48,reviewed,us,us
+2018-12-16T03:10:35.420,40.4853,-127.1473,14.75,3.1,ml,,298,2.192,0.71,us,us2000iuy5,2019-02-16T22:29:10.040,"244km W of Ferndale, California",earthquake,6.7,9.1,0.087,8,reviewed,nc,nc
+2018-12-19T20:04:39.850,40.5419,-127.2212,10,3.2,ml,,285,2.199,0.63,us,us2000iv8r,2019-02-23T20:20:54.040,"250km W of Ferndale, California",earthquake,5.1,2,0.066,30,reviewed,us,us
+2018-12-21T14:25:58.870,40.5841,-127.2075,10,2.7,ml,,255,2.19,1.07,us,us2000iw6b,2019-02-23T20:22:20.040,"249km W of Ferndale, California",earthquake,4.5,2,0.058,39,reviewed,us,us
+2019-01-09T10:34:47.580,41.911,-126.1637,10,3.2,ml,,254,1.474,0.89,us,us2000j1uh,2019-04-02T20:51:39.040,"154km WSW of Gold Beach, Oregon",earthquake,5,2,0.049,54,reviewed,us,us
+2019-01-25T01:40:58.950,40.6224,-127.3185,10,3,ml,,267,2.276,1.1,us,us2000j8m6,2019-04-12T17:14:48.040,"258km W of Ferndale, California",earthquake,4.8,2,0.052,48,reviewed,us,us
+2019-03-09T20:09:57.496,40.5181,-126.4811,10,3.1,ml,,228,1.635,0.95,us,us1000jd0s,2019-05-24T21:21:23.040,"187km W of Ferndale, California",earthquake,5.4,2,0.045,64,reviewed,us,us
+2019-03-27T10:36:43.383,41.3141,-126.131,10,3,ml,,246,1.521,0.88,us,us2000k67y,2019-06-08T20:51:09.040,"168km WSW of Crescent City, California",earthquake,6.4,2,0.044,68,reviewed,us,us
+2019-03-30T03:44:51.210,40.5617,-127.2253,10,3,ml,,289,2.203,1.04,us,us2000k7hv,2019-06-08T20:51:11.040,"250km W of Ferndale, California",earthquake,9.8,2,0.055,44,reviewed,us,us
+2019-04-23T17:53:49.045,40.518,-127.0119,10,3.7,mwr,,198,2.207,0.88,us,us70003aud,2019-07-13T18:42:35.040,"232km W of Ferndale, California",earthquake,8.1,2,0.068,21,reviewed,us,us
+2019-05-05T06:29:34.607,40.5934,-127.2416,10,3.3,ml,,247,2.386,0.68,us,us70003gx2,2019-07-25T18:54:20.040,"252km W of Ferndale, California",earthquake,9.4,2,0.046,62,reviewed,us,us
+2019-05-05T06:46:57.006,40.6203,-127.3338,10,5,mww,,252,2.287,0.69,us,us70003gxb,2020-02-23T06:57:20.337,"259km W of Ferndale, California",earthquake,8.8,2,0.033,86,reviewed,us,us
+2019-05-05T07:05:29.817,40.6774,-126.7318,10,3.1,ml,,260,2.006,0.63,us,us70003gxp,2019-07-25T18:54:20.040,"209km W of Ferndale, California",earthquake,5.4,2,0.047,60,reviewed,us,us
+2019-05-05T07:12:01.154,40.6137,-127.5097,10,3.2,ml,,253,2.59,0.99,us,us70003gxv,2019-07-25T18:54:20.040,"274km W of Ferndale, California",earthquake,11.4,2,0.048,56,reviewed,us,us
+2019-05-09T07:14:43.195,40.6272,-127.3873,10,3.1,ml,,265,2.328,0.7,us,us70003iqs,2019-08-01T17:15:06.040,"264km W of Ferndale, California",earthquake,9.4,2,0.051,50,reviewed,us,us
+2019-05-11T22:44:26.130,41.7608,-126.1382,23.73,3,md,,291,1.495,0.77,us,us70003jww,2019-08-01T17:15:12.040,"157km WSW of Brookings, Oregon",earthquake,7,2,0.137,14,reviewed,nc,nc
+2019-05-17T17:08:01.548,40.6735,-127.1801,12.66,3.3,ml,,254,2.174,0.67,us,us70003mn1,2019-08-07T22:03:45.040,"246km W of Ferndale, California",earthquake,5.9,9.4,0.045,64,reviewed,us,us
+2019-07-03T13:17:24.430,41.3181667,-126.7893333,9.62,3.12,md,15,306,2.04,0.13,nc,nc73205546,2019-07-04T04:06:02.447,"221km WSW of Crescent City, CA",earthquake,1.25,31.61,0.186,23,reviewed,nc,nc
+2019-12-13T20:08:21.794,41.8758,-126.9856,10,3.2,ml,,203,2.082,0.72,us,us70006nru,2020-01-15T19:38:05.040,"220km WSW of Gold Beach, Oregon",earthquake,9.5,2,0.043,71,reviewed,us,us
+2019-12-28T10:24:59.512,42.0357,-126.1113,10,4.5,mb,,231,1.413,1.09,us,us70006rv7,2020-02-05T08:26:29.040,"145km WSW of Gold Beach, Oregon",earthquake,3.6,2,0.05,119,reviewed,us,us
+2019-12-28T11:03:48.489,42.0188,-126.1219,10,4.5,mb,,251,1.423,1.05,us,us70006rvc,2020-02-10T06:14:13.040,"146km WSW of Gold Beach, Oregon",earthquake,7.8,2,0.06,80,reviewed,us,us
+2019-12-28T20:07:32.641,42.0142,-126.1697,10,2.7,ml,,246,1.459,0.6,us,us70006rz1,2020-01-15T02:40:05.040,"150km WSW of Gold Beach, Oregon",earthquake,6.7,2,0.041,80,reviewed,us,us
+2020-01-12T16:22:29.049,40.6126,-126.9946,10,3.1,ml,,257,2.199,0.43,us,us70006ysr,2020-01-27T17:16:45.451,"231km W of Ferndale, California",earthquake,8.7,2,0.049,55,reviewed,us,us
